@@ -1,0 +1,24 @@
+:root {
+    --text-light-red: hsl(0, 100%, 67%);
+    --text-orangey-yellow: hsl(39, 100%, 56%);
+    --text-green-teal: hsl(166, 100%, 37%);
+    --text-cobalt-blue: hsl(234, 85%, 45%);
+    --background-light-red: hsl(12, 100%, 98%);
+    --background-orangey-yellow: hsl(47, 100%, 97%);
+    --background-green-teal: hsl(173, 53%, 97%);
+    --background-cobalt-blue: hsl(240, 100%, 98%);
+    --gradient-light-slate-blue-background: hsl(252, 100%, 67%);
+    --gradient-light-royal-blue-background: hsl(241, 81%, 54%);
+    --gradient-violet-blue-circle: hsla(256, 72%, 46%, 1);
+    --gradient-persian-blue-circle: hsla(241, 72%, 46%, 0);
+    --neutral-white: hsl(0, 0%, 100%);
+    --neutral-pale-blue: hsl(221, 100%, 96%);
+    --neutral-light-lavender: hsl(241, 100%, 89%);
+    --neutral-dark-gray-blue: hsl(224, 30%, 27%);
+    --neutral-light-gray-blue: hsla(224, 30%, 27%, 0.548);
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
