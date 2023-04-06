@@ -1,0 +1,18 @@
+:root {
+    --dark-cyan: hsl(158, 36%, 37%);
+    --dark-cyan-active: hsl(159, 27%, 20%);
+    --cream: hsl(30, 38%, 92%);
+    --very-dark-blue: hsl(212, 21%, 14%);
+    --dark-grayish-blue: hsl(228, 12%, 48%);
+    --white: hsl(0, 0%, 100%);
+    --montserrat: 'Montserrat', sans-serif;
+    --fraunces: 'Fraunces', serif;
+}
+
+body {
+    font-size: .875rem;
+    font-family: var(--montserrat);
+    font-weight: 700;
+    width: 100vw;
+    height: 100vh;
+}

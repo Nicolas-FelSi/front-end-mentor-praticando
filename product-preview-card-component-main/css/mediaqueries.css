@@ -1,0 +1,25 @@
+@media screen and (min-width: 660px){
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .container {
+        display: flex;
+        height: 415px;
+        max-width: 37.5rem;
+    }
+
+    .section__background {
+        background: url(../images/image-product-desktop.jpg) no-repeat;
+        background-size: cover;
+        width: 300px;
+        height: auto;
+        border-radius: .5rem 0 0 .5rem;
+    }
+
+    .section__content {
+        width: 280px;
+    }
+}
